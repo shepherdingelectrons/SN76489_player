@@ -8,6 +8,7 @@ All code is in the [code folder](https://github.com/shepherdingelectrons/SN76489
 [ProcessMidi.py](https://github.com/shepherdingelectrons/SN76489_player/blob/master/code/ProcessMidi.py) is reads the MIDI file and outputs as a slightly compressed version to a C include file. Include files are used in the Arduino sketch ([SN76489.ino](https://github.com/shepherdingelectrons/SN76489_player/blob/master/code/SN76489.ino)).
 
 For details on how to wire the electronics, and how the library interfaces with the audio chip, see the related blog post: 
+https://shepherdingelectrons.blogspot.com/2020/04/sn76489-midi-player.html
 
 ## Dependencies
 The python script using the MIDI library '[python-midi](https://github.com/vishnubob/python-midi)' from [vishnubob](https://github.com/vishnubob).
