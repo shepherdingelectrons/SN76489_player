@@ -1,5 +1,5 @@
 # SN76489_player
-Arduino sketch to play pre-processed MIDI files on the SN76489 audio chip.
+Arduino sketch to play pre-processed MIDI files on the SN76489 audio chip.  Pre-processing of the MIDI file is performed with a Python script.
 
 ## Files
 Example MIDI files are contained in the [MIDI folder](https://github.com/shepherdingelectrons/SN76489_player/tree/master/MIDI)
